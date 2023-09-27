@@ -45,10 +45,10 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
+        - name: Python
           description: 90%
           icon: r-project
-          icon_pack: fab
+          icon_pack: f3e2
         - name: Statistics
           description: 100%
           icon: chart-line
@@ -69,28 +69,51 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
-          company_url: ''
+        - title: Machine Learning Engineer 
+          company: NeuralGarage
+          company_url: 'https://visualdub.in/'
           company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
+          location: Bengaluru, India
+          date_start: '2023-01-01'
           date_end: ''
           description: |2-
               Responsibilities include:
 
-              * Analysing
-              * Modelling
-              * Deploying
-        - title: Professor of Semiconductor Physics
-          company: University X
-          company_url: ''
+              * Researching and develeloping novel algorithms for the generation of Synthetic Lip-Synced Videos using GANs, Autoencoders and  Transformers. 
+              * Using 3D rendering and Cross Attention Transformers to build archietctures for high level video generation in multiple languages.
+              
+              
+        - title: Research Intern
+          company: Air Lab, Carnegie Mellon University
+          company_url: 'https://theairlab.org/team/past_members/anushka/'
           company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
-    design:
+          location: Remote
+          date_start: '2022-02-01'
+          date_end: '2022-08-31'
+          description: |2-
+            Responsibilities include:
+
+            * Worked under Dr. Sebastian Scherer on vision-based aircraft detection and tracking system for detect-and-avoid applications. 
+            * Contributed to the Airborne Object Tracking challenge using a multi-stage pipeline incorporating optical flow and center
+              tracking.
+            *Trained the pipeline using the Amazon Airborne Detection Challenge dataset and optimized models using TensorRT and
+              TorchJIT for improved performance
+
+               
+        - title: Computer Vision Intern
+          company: Omnipresent Robottech 
+          company_url: 'https://www.linkedin.com/company/omnipresent-robot-tech/?originalSubdomain=in'
+          company_logo: org-x
+          location: Delhi
+          date_start: '2021-07-01'
+          date_end: '2021-17-31'
+          description: |2-
+            Responsibilities include:
+
+            * Worked closely on the Camera Health Management System by automating video surveillance using Deep Learning techniques
+            *Implemented facial recognition, object detection, object tracking, and human detection to track CCTV camera behavior.
+            *Deployed machine learning and deep learning models on hardware for real-time monitoring and analysis of camera health
+ design:
       columns: '2'
   - block: accomplishments
     content:
