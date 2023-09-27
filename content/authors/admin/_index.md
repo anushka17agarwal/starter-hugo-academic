@@ -22,13 +22,17 @@ organizations:
     url: https://visualdub.in/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include Generative Artificial Intelligence
 
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Generative AI
+  - Computer Vision
+  - 3D Vision
+  - Multi Modal ML
+
+
 
 # Education to show in About widget
 education:
