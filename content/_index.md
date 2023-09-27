@@ -48,7 +48,7 @@ sections:
         - name: Python
           description: 90%
           icon: r-project
-          icon_pack: f3e2
+          icon_pack: fab
         - name: Statistics
           description: 100%
           icon: chart-line
@@ -99,6 +99,22 @@ sections:
             *Trained the pipeline using the Amazon Airborne Detection Challenge dataset and optimized models using TensorRT and
               TorchJIT for improved performance
 
+
+        - title: Research Collaborator
+          company: Xi’an Jiaotong-Liverpool University 
+          company_url: 'https://www.xjtlu.edu.cn/en/study/departments/entrepreneur-college-taicang/college-staff/academic-staff/staff/hongseng-gan'
+          company_logo: org-x
+
+          description: |2-
+            Responsibilities include:
+
+            * Working on disease prediction using Multi-Modal Cross Attention Transformer Attention and Vision Transformers with
+            Graph Neural Networks
+            *One approach to building multi-modal disease prediction models is to use attention mechanisms, which allow the model to
+              selectively focus on different parts of the input data depending on their relevance to the prediction task. Cross Attention
+              Transformer Attention (CATA) is an attention mechanism that enables the model to attend to both the image and clinical
+              data domains simultaneously. This can help the model to better capture the complex relationships between different types
+              of data.
                
         - title: Computer Vision Intern
           company: Omnipresent Robottech 
