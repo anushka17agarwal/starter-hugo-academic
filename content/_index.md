@@ -128,7 +128,7 @@ sections:
 
             * Worked closely on the Camera Health Management System by automating video surveillance using Deep Learning techniques
             *Implemented facial recognition, object detection, object tracking, and human detection to track CCTV camera behavior.
-            *Deployed machine learning and deep learning models on hardware for real-time monitoring and analysis of camera health
+         #   *Deployed machine learning and deep learning models on hardware for real-time monitoring and analysis of camera health
  design:
       columns: '2'
   - block: accomplishments
