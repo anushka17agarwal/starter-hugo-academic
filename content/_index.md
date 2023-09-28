@@ -82,7 +82,53 @@ sections:
               * Researching and develeloping novel algorithms for the generation of Synthetic Lip-Synced Videos using GANs, Autoencoders and  Transformers. 
               * Using 3D rendering and Cross Attention Transformers to build archietctures for high level video generation in multiple languages.
               
+              
+        - title: Research Intern
+          company: Air Lab, Carnegie Mellon University
+          company_url: 'https://theairlab.org/team/past_members/anushka/'
+          company_logo: org-x
+          location: Remote
+          date_start: '2022-02-01'
+          date_end: '2022-08-31'
+          description: |2-
+            Responsibilities include:
 
+            * Worked under Dr. Sebastian Scherer on vision-based aircraft detection and tracking system for detect-and-avoid applications. 
+            * Contributed to the Airborne Object Tracking challenge using a multi-stage pipeline incorporating optical flow and center
+              tracking.
+            *Trained the pipeline using the Amazon Airborne Detection Challenge dataset and optimized models using TensorRT and
+              TorchJIT for improved performance
+
+
+        - title: Research Collaborator
+          company: Xi’an Jiaotong-Liverpool University 
+          company_url: 'https://www.xjtlu.edu.cn/en/study/departments/entrepreneur-college-taicang/college-staff/academic-staff/staff/hongseng-gan'
+          company_logo: org-x
+
+          description: |2-
+            Responsibilities include:
+
+            * Working on disease prediction using Multi-Modal Cross Attention Transformer Attention and Vision Transformers with
+            Graph Neural Networks
+            *One approach to building multi-modal disease prediction models is to use attention mechanisms, which allow the model to
+              selectively focus on different parts of the input data depending on their relevance to the prediction task. Cross Attention
+              Transformer Attention (CATA) is an attention mechanism that enables the model to attend to both the image and clinical
+              data domains simultaneously. This can help the model to better capture the complex relationships between different types
+              of data.
+               
+        - title: Computer Vision Intern
+          company: Omnipresent Robottech 
+          company_url: 'https://www.linkedin.com/company/omnipresent-robot-tech/?originalSubdomain=in'
+          company_logo: org-x
+          location: Delhi
+          date_start: '2021-07-01'
+          date_end: '2021-17-31'
+          description: |2-
+            Responsibilities include:
+
+            * Worked closely on the Camera Health Management System by automating video surveillance using Deep Learning techniques
+            *Implemented facial recognition, object detection, object tracking, and human detection to track CCTV camera behavior.
+            *Deployed machine learning and deep learning models on hardware for real-time monitoring and analysis of camera health
     design:
       columns: '2'
   - block: accomplishments
