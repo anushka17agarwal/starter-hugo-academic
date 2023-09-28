@@ -113,8 +113,8 @@ sections:
             * Implemented facial recognition, object detection, object tracking, and human detection to track CCTV camera behavior.
             * Deployed machine learning and deep learning models on hardware for real time monitoring and analysis of camera health
 
-  #   design:
-  #     columns: '2'
+    design:
+      columns: '2'
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
