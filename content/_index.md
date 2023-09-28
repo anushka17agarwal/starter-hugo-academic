@@ -72,7 +72,7 @@ sections:
         - title: Machine Learning Engineer 
           company: NeuralGarage
           company_url: 'https://visualdub.in/'
-          company_logo: org-gc
+          # company_logo: org-gc
           location: Bengaluru
           date_start: '2023-01-01'
           date_end: ''
@@ -86,7 +86,7 @@ sections:
         - title: Research Intern
           company: Air Lab, Carnegie Mellon University
           company_url: 'https://theairlab.org/team/past_members/anushka/'
-          company_logo: org-x
+          # company_logo: org-x
           location: Remote
           date_start: '2022-02-01'
           date_end: '2022-08-31'
@@ -102,7 +102,7 @@ sections:
         - title: Research Collaborator
           company: Xi’an Jiaotong-Liverpool University 
           company_url: 'https://www.xjtlu.edu.cn/en/study/departments/entrepreneur-college-taicang/college-staff/academic-staff/staff/hongseng-gan'
-          company_logo: org-x
+          # company_logo: org-x
           location: Remote
           date_start: '2022-02-01'
           date_end: '2022-08-31'
@@ -116,7 +116,7 @@ sections:
         - title: Computer Vision Intern
           company: Omnipresent Robottech 
           company_url: 'https://www.linkedin.com/company/omnipresent-robot-tech/?originalSubdomain=in'
-          company_logo: org-x
+          # company_logo: org-x
           location: Delhi
           date_start: '2021-07-01'
           date_end: '2021-08-31'
