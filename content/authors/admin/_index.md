@@ -28,8 +28,7 @@ bio: My research interests include Generative Artificial Intelligence
 interests:
   - Artificial Intelligence
   - Generative AI
-  - Computer Vision
-  - 3D Vision
+  - 3D Reconstruction
   - Multi Modal ML
 
 
