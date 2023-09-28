@@ -57,6 +57,34 @@ sections:
           description: 10%
           icon: camera-retro
           icon_pack: fas
+
+        - name: Deep Learning
+          description:  Natural Language Processing (NLP) | Time-Series Analysis | Sequence Learning | Sequence to Sequence Networks | Classical ML
+          icon: centos
+          icon_pack: fab
+          
+        - name: Frameworks
+          description: Tensorflow - Keras | Pytorch | BERT | Simple Transformers (Hugging Face) | Sentence Transformers (SBERT) | NLTK | Scikit - Learn
+          icon: laptop-code
+          icon_pack: fas
+          
+        - name: Databases
+          description: MongoDB (PyMongo) | Firebase (Pyrebase) | MYSQL (SQLite3)
+          icon: database
+          icon_pack: fas
+          
+        - name: Web Frameworks 
+          description: Flask | Streamlit | FastAPI | Postman | HTML | CSS |
+          icon: codepen
+          icon_pack: fab
+          
+        - name: Programming Languages
+          description: Python | C/C++ | R
+          icon: keyboard
+          icon_pack: fas
+
+          
+
   - block: experience
     content:
       title: Experience
