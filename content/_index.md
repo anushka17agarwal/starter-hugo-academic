@@ -79,8 +79,8 @@ sections:
           description: |2-
               Responsibilities include:
 
-              # * Researching and develeloping novel algorithms for the generation of Synthetic Lip-Synced Videos using GANs, Autoencoders and  Transformers. 
-              # * Using 3D rendering and Cross Attention Transformers to build archietctures for high level video generation in multiple languages.
+              * Researching and develeloping novel algorithms for the generation of Synthetic Lip-Synced Videos using GANs, Autoencoders and  Transformers. 
+              * Using 3D rendering and Cross Attention Transformers to build archietctures for high level video generation in multiple languages.
               
 
     design:
