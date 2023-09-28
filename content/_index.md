@@ -45,26 +45,14 @@ sections:
     content:
       title: Skills
       items:
-        - name: R
-          description: 90%
-          icon: r-project
-          icon_pack: fab
-        - name: Statistics
-          description: 100%
-          icon: chart-line
-          icon_pack: fas
-        - name: Photography
-          description: 10%
-          icon: camera-retro
-          icon_pack: fas
 
         - name: Deep Learning
-          description:  Natural Language Processing (NLP) | Time-Series Analysis | Sequence Learning | Sequence to Sequence Networks | Classical ML
+          description: Generative AI| 3D Reconstruction | Neural Rendering | Multi Modal ML | Video Synthesis | Langchain |
           icon: centos
           icon_pack: fab
           
         - name: Frameworks
-          description: Tensorflow - Keras | Pytorch | BERT | Simple Transformers (Hugging Face) | Sentence Transformers (SBERT) | NLTK | Scikit - Learn
+          description: Tensorflow - Keras | Pytorch | GANs | Vision Transformers | NERFs | Volume Rendering | 
           icon: laptop-code
           icon_pack: fas
           
@@ -74,12 +62,12 @@ sections:
           icon_pack: fas
           
         - name: Web Frameworks 
-          description: Flask | Streamlit | FastAPI | Postman | HTML | CSS |
+          description: Django |Flask | Streamlit | FastAPI | Postman | HTML | CSS |
           icon: codepen
           icon_pack: fab
           
         - name: Programming Languages
-          description: Python | C/C++ | R
+          description: Python | C/C++ | Java
           icon: keyboard
           icon_pack: fas
 
