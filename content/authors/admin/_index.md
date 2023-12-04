@@ -73,7 +73,7 @@ email: 'anushka17agarwal@gmail.com'
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
- I am an AI enthusiast immersed in the dynamic world of technology. My journey in artificial intelligence has led me to a captivating intersection where I delve into the realms of Generative AI, 3D GANs, Transformers, and Multi-modal Machine Learning. I'm passionate about pioneering innovation and am dedicated to exploring the limitless potential of these cutting-edge technologies. As I lead the charge into the future of AI-driven creativity and problem-solving, my work encompasses the fusion of these powerful fields, shaping new horizons in technology and research.
+ I am an AI enthusiast immersed in the dynamic world of technology. My journey in artificial intelligence has led me to a captivating intersection where I delve into the realms of Generative AI, 3D GANs, Transformers, and Multi-modal Machine Learning. I'm passionate about pioneering innovation and am dedicated to exploring the limitless potential of these cutting-edge technologies.
 
 
 
