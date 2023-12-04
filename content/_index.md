@@ -67,7 +67,7 @@ sections:
            
 
               * Researching and developing novel algorithms for the generation of Synthetic Lip-Synced Videos using GANs, Autoencoders and  Transformers. 
-              * Using 3D rendering and Cross Attention Transformers to build archietctures for high level video generation in multiple languages.
+              * Using 3D rendering and Cross Attention Transformers to build architectures for high level video generation in multiple languages.
               
               
         - title: Research Intern
